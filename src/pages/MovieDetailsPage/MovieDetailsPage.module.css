@@ -1,0 +1,43 @@
+.main {
+  padding: 1rem;
+}
+
+.goBack {
+  display: inline-block;
+  margin-bottom: 1rem;
+  color: #0077cc;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.details {
+  display: flex;
+  gap: 1rem;
+}
+
+.poster {
+  width: 300px;
+  border-radius: 4px;
+}
+
+.info {
+  max-width: 600px;
+}
+
+.subNav {
+  margin-top: 1rem;
+  border-top: 1px solid #ccc;
+  padding-top: 1rem;
+  display: flex;
+  gap: 1rem;
+}
+
+.subNav a {
+  color: #0077cc;
+  text-decoration: none;
+}
+
+.subNav a.active {
+  font-weight: 700;
+  border-bottom: 2px solid #0077cc;
+}

@@ -1,0 +1,15 @@
+.nav {
+  background-color: #222;
+  padding: 1rem;
+  display: flex;
+  gap: 1rem;
+}
+
+.nav a {
+  color: #fff;
+  font-weight: 600;
+}
+
+.active {
+  color: #61dafb;
+}

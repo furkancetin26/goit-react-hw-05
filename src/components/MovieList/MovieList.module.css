@@ -1,0 +1,13 @@
+.list {
+  padding: 0;
+  margin: 1rem;
+}
+
+.item {
+  margin-bottom: 0.5rem;
+}
+
+.link {
+  color: #0077cc;
+  text-decoration: underline;
+}

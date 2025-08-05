@@ -1,0 +1,11 @@
+.main {
+  padding: 2rem;
+  text-align: center;
+}
+
+.link {
+  color: #0077cc;
+  text-decoration: underline;
+  cursor: pointer;
+}
+ 
